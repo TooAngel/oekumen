@@ -1,18 +1,18 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Kontakt
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- oekumen
+- Tobias Wilken
+- Ziegeleiweg 29
+- 26203 Wardenburg
+- +49 160 96657514
+- tobias@oekumen.de
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Datensicherheit
 
-
-[jekyll-organization]: https://github.com/jekyll
+Aufgrund von Datensparsamkeit und keine gespeicherte Daten und unserem Glauben, können wir auf den Passus verzichten. 
